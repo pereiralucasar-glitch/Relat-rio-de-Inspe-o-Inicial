@@ -11,7 +11,7 @@ Esse problema pode causar curto-circuito, superaquecimento da tomada, incêndios
 
 3. Foto do problema
 
-(Adicionar a imagem aqui)
+![foto do problema](IMG2.png)
 
 4. Medida preventiva
 
